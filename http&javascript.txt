@@ -1,0 +1,20 @@
+1) Write a blog on Difference between HTTP1.1 vs HTTP2:
+    HTTP1.1: 
+            1) The standardized protocol.
+            2) More than 15 years of extensions.
+            3) It supports connection reuse.
+            4) Introduces a warning header field to carry additional information about the status of a message.
+
+
+    HTTP2:
+            1) A protocol for greater performance.
+            2)Uses multiplexing.
+            3)Security concerns from previous versions will continue to be seen in HTTP/2.
+            4)server push to effectively reduce the page load time by a greater margin along with being less sensitive to network delays.
+
+2)Write a blog about objects and its internal representation in Javascript:
+    * A javaScript object is an entity having state and behavior (properties and method).
+    * For example: car, pen, bike, chair, glass, keyboard, monitor etc. JavaScript is an object-based language.
+    * Everything is an object in JavaScript.
+    * objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types,
+      in the form of “key: value” pairs.
